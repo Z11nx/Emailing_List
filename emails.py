@@ -60,8 +60,8 @@ class registration:
             contents = file.read()
             print('\n' + contents)
         
-        email_address = 'austinmca01@gmail.com'
-        email_password = 'austincaldwell2001'
+        email_address = 'example@gmail.com'
+        email_password = 'password'
         recipent_address = input('Enter recipients email: ')
         subject = input('Subject: ')
         body = input('Body: ')
